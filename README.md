@@ -1,6 +1,39 @@
 # Proyecto Gestion Bancaria
 
-## Scrum
+  Este ejemplo consistirá en el funcionamiento sencillo de un Banco, con las diversas Cuentas bancarias de cada cliente.
+
+  Para ello, se creará incialmente 2 clases:
+  - __Cuenta__.
+  - __Banco__.
+
+## Metodología de trabajo
+
+  Para el desarrollo de este proyecto vamos a hacer uso de ___metodologías ágiles___, con el fin de enseñar a través de proyectos ___al alumnado___.
+
+#### ¿Qué es Ágil?:
+
+  - _Es la habilidad de crear productos y responder al cambio_.
+  - _Es un conjunto de marcos de trabajo y metodologías_.
+
+  La agilidad promueve:
+  - Pair programming.
+  - TDD (Test Driven Development).
+  - P2P (Peer to peer programing).
+
+#### Diferencias entre desarrollo tradicional y ágil:
+
+  1. Grupos de trabajo
+  - __Tradicional__: grupos grandes de trabajo, puede generar dificultades cómo saber quién está trabajando en qué.
+  - __Ágil__: equipos de trabajo más pequeños con un tiempo de desarrollo corto ejm: 2 semanas (1 iteración).
+
+  2. ¿Cómo se manejan los requerimientos?
+  - __Tradicional__: grandes listas de requerimientos.
+  __Ágil__: pequeñas listas de requerimientos que vamos a trabajar durante la iteración.
+  3. Generación de valor
+  - __Tradicional__: Trabajar toda la lista de requerimientos y al final mostrar al cliente con lo que creemos es el producto terminado.
+  - __Ágil__: Entregar los pequeños avances al cliente cada iteración para que pueda ver los cambios en el producto poco a poco.
+
+### Scrum
 
 Es un framework de ___agile___ que es utilizado para simplificarnos la vida este tiene tres pilares fundamentales los cuales son:
 
@@ -42,7 +75,7 @@ Dentro de Scrum existen valores y codigos de etica que se deben de seguir para s
 
 2. <b>Valor</b>: Como todos estanos trabajando en equipo nos ayudamos y compartimos conocimientos y recursos tanto humanos como tecnicos para afrontar los retos.
 
-3. <b>Apertura</b>: Estar abierto a criticas constructivas y a retroalimentación para poder mejorar como personas y miembros del equipo
+3. <b>Apertura</b>: Estar abierto a criticas constructivas y a retroalimentación para poder mejorar como personas y miembros del equipo.
 
 4. <b>Compromiso</b>: Todos trabajamos para alcanzar el exito.
 
@@ -51,3 +84,7 @@ Dentro de Scrum existen valores y codigos de etica que se deben de seguir para s
 Ejemplo de como utilizar SCRUM en la vida real:
 
 ![ejemplo scrum](https://d112uwirao0vo9.cloudfront.net/wp-content/uploads/2019/09/Scrum-Board-1024x870.jpg)
+
+
+## Referencias
+- [¿Qué signigica Scrum?](https://platzi.com/tutoriales/1750-scrum/7403-que-significa-scrum-como-metodologia-de-desarrollo-agil/?utm_source=google&utm_medium=paid&utm_campaign=14603491644&utm_adgroup=&utm_content=&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KFiHk8ggmtw6wMkJXxsethxWm133rkiRALPKwe3BXRu5x1FCAkUeBgaAj93EALw_wcB&gclsrc=aw.ds).
