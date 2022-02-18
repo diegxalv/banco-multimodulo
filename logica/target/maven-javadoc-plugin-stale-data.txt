@@ -1,0 +1,38 @@
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/../bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Logica del proyecto Banco 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Logica del proyecto Banco 1.0-SNAPSHOT API'
+es.iespuerto.logica
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/src/main/java = 1645128152000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/constant-values.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/overview-tree.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/index.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/allclasses-noframe.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/index-all.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/deprecated-list.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/script.js = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/stylesheet.css = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/help-doc.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/allclasses-frame.html = 1645128882000
+/Users/jpexposito/Dropbox/Mi Mac (MacBook-Pro-de-Joatham.local)/Documents/GitHub/banco-multimodulo/logica/target/site/apidocs/package-list = 1645128882000
