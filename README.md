@@ -12,3 +12,18 @@
   Para ello, se creará incialmente 2 clases:
   - __Cuenta__.
   - __Banco__.
+
+## Metodología de trabajo
+
+  Para el desarrollo del proyecto haremos uso de SCRUM, como metodología del equipo de desarrollo.
+
+  <div align="center">
+    <img src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png" width="250px" />
+  </div>
+  </br>
+
+  Si quieres conocer como se hace uso de esta metodología, consulta el siguiente [enlace](https://github.com/jpexposito/docencia/tree/master/ETS/DOCUMENTACION/SCRUM).
+
+## Referencias
+
+  - [Descripción de SCRUM](https://github.com/jpexposito/docencia/tree/master/ETS/DOCUMENTACION/SCRUM).
