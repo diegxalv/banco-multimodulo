@@ -1,4 +1,13 @@
+
+<div align="justify">
+
 # Proyecto Gestion Bancaria
+
+<div align="center">
+  <img src="https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/05/25/15904124616771.jpg" width="500px" />
+</div>
+
+</br>
 
   Este ejemplo consistirá en el funcionamiento sencillo de un Banco, con las diversas Cuentas bancarias de cada cliente.
 
@@ -15,10 +24,11 @@
   - _Es la habilidad de crear productos y responder al cambio_.
   - _Es un conjunto de marcos de trabajo y metodologías_.
 
+
   La agilidad promueve:
-  - Pair programming.
-  - TDD (Test Driven Development).
-  - P2P (Peer to peer programing).
+  - _Pair programming_.
+  - _TDD (Test Driven Development)_.
+  - _P2P (Peer to peer programing)_.
 
 #### Diferencias entre desarrollo tradicional y ágil:
 
@@ -33,15 +43,13 @@
   - __Tradicional__: Trabajar toda la lista de requerimientos y al final mostrar al cliente con lo que creemos es el producto terminado.
   - __Ágil__: Entregar los pequeños avances al cliente cada iteración para que pueda ver los cambios en el producto poco a poco.
 
-### Scrum
+### Nuestra metodología ágil: Scrum
 
 Es un framework de ___agile___ que es utilizado para simplificarnos la vida este tiene tres pilares fundamentales los cuales son:
 
 1. __Transparencia__: Toda la información que se maneja esta disponible para todos los miembros no hay secretos cualquier miembro puede pedir cualquier información y debe recibir siempre esta información.
 2. __Inspección__: Pueden presentarse terceras personas a inspeccionar el trabjo que se esta haciendo desde un punto de vista tecnico o administrativo.
 3. __Adaptabilidad__: A cambios, problemas o defectos que se puedan presentar.
-
-Scrum es una certificación extra y tiene una gran comunidad y soporte para poder implementarse.
 
 ![scrum](https://d112uwirao0vo9.cloudfront.net/wp-content/uploads/2019/09/scrum-development-1024x909.jpg)
 
